@@ -1,0 +1,27 @@
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+
+.cards-row {
+  margin-top: 10px;
+}
+
+.auth-buttons {
+  .btn {
+    margin-right: 2px;
+    margin-left: 2px;
+  }
+}
+
+.textarea.customer-comments {
+  display: block;
+  width: 100%;
+}
+
+.container {
+  position: relative;
+}
+
+.notification {
+  position: absolute;
+  right: 20px;
+  top: 60px;
+}
